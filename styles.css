@@ -5,7 +5,7 @@
 :root {
     --font-family: "Roboto", sans-serf;
     font-size: 1em;
-    line-height: 1.6;
+    line-height: 1.2;
     --normal-font: 400;
     --bold-font: 600;
     --bolder-font: 900;
@@ -16,7 +16,7 @@
     --secondary-shadow: #a17a69;
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
-    --line-height: 1.7rem;
+    --line-height: 1.2rem;
     --transition: 0.3s;
   }
   
@@ -835,7 +835,7 @@ left: 4.35%;  }
     flex-direction: column;
     padding: 20px;
   }
-  .aboutsection h2, .education h2{
+  .aboutsection h2, .education h2, .projects h2{
     font-size: 1.7rem;
     line-height: 1em;
   }
